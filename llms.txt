@@ -1,0 +1,14 @@
+# tlq5l
+
+> Personal tools by Terry, published on GitHub as tlq5l. This file lists the public tools only.
+
+## Tools
+
+- [agentic-video](https://github.com/tlq5l/agentic-video?ref=tlq5l-site-llms-txt): Python library and MCP server that lets an AI agent work with video files on your own machine, using frames, timestamps and transcripts.
+- [afk-timer](https://github.com/tlq5l/afk-timer?ref=tlq5l-site-llms-txt): Claude Code mod that shows how long you have been away and whether the prompt cache has likely expired.
+- [claude-guards](https://github.com/tlq5l/claude-guards?ref=tlq5l-site-llms-txt): Three hooks for Claude Code that check Bash commands before they run (git data loss, purchases, hidden test failures), plus a streamline skill.
+- [shopify-schema-audit](https://github.com/tlq5l/shopify-schema-audit?ref=tlq5l-site-llms-txt): Zero-dependency Node tool that checks a live store's Product structured data, product image alt text and EU GPSR details.
+
+## Optional
+
+- [Privacy policy](https://tlq5l.github.io/privacy.html?ref=tlq5l-site-llms-txt): Privacy policy for Terry's personal tools.
